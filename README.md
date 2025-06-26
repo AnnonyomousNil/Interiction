@@ -117,5 +117,8 @@ Enter password: ********
 - Integrity is verified using SHA-256
 
 
+## 📜 License
+This project is licensed under the MIT License.
+
 
 
